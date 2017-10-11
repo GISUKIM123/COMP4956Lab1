@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\bin\Debug\Lab1_CSharp_version.exe.config
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\bin\Debug\Lab1_CSharp_version.exe
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\bin\Debug\Lab1_CSharp_version.pdb
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.Form1.resources
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.Properties.Resources.resources
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.exe
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.pdb
+\\Mac\Home\Desktop\term4\SysPro\Lab1_CSharp_version\Lab1_CSharp_version\obj\Debug\Lab1_CSharp_version.Form2.resources
