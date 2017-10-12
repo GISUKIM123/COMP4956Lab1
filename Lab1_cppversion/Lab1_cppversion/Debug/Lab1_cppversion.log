@@ -1,3 +1,6 @@
 ﻿  Lab1.cpp
-  Lab1_cppversion.vcxproj -> \\Mac\Home\Desktop\term4\SysPro\Lab1_cppversion\Debug\Lab1_cppversion.exe
-  Lab1_cppversion.vcxproj -> \\Mac\Home\Desktop\term4\SysPro\Lab1_cppversion\Debug\Lab1_cppversion.pdb (Partial PDB)
+\\mac\home\desktop\term4\syspro\comp4956lab1\lab1_cppversion\lab1_cppversion\lab1.cpp(11): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  \\mac\home\desktop\term4\syspro\comp4956lab1\lab1_cppversion\lab1_cppversion\lab1.cpp(11): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+\\mac\home\desktop\term4\syspro\comp4956lab1\lab1_cppversion\lab1_cppversion\lab1.cpp(31): warning C4101: 'liDueTIME': unreferenced local variable
+  Lab1_cppversion.vcxproj -> \\Mac\Home\Desktop\term4\SysPro\COMP4956Lab1\Lab1_cppversion\Debug\Lab1_cppversion.exe
+  Lab1_cppversion.vcxproj -> \\Mac\Home\Desktop\term4\SysPro\COMP4956Lab1\Lab1_cppversion\Debug\Lab1_cppversion.pdb (Partial PDB)
